@@ -8,14 +8,14 @@
 
 ![](assets/images/Portofolio.png)
 
-## Halaman Contact
+## Halaman Kontak
 
 ![](assets/images/Kontak.png)
 
-## Halaman Datatable
+## Halaman DataTables
 
 ![](assets/images/DataTables.png)
 
 ## Halaman Forum
 
-![](assets/images/forum.jpg)
+![](assets/images/Forum.png)
